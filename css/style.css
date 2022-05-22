@@ -22,3 +22,9 @@ footer .abuse a{
     text-decoration: none;
     color: gray;
 }
+@media (max-width:326) {
+    .flex-sm-column{
+        flex-direction: column!important;
+    }
+    
+}
